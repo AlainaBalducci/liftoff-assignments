@@ -7,12 +7,35 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+This app will pick a restaurant for users who can't decide where to eat. They will be able to create a list of restaurants to randomize with another user(s) of their choice. This can be helpful to indecisive couples, friends, coworkers, or just for random fun!
+
 ### Features
-Include Features here
+
+Search restaurants/ add these to your profile
+Register/Login User
+Web API for Restaurant information
+Web API for user privileges (admin, user)
+
 ### Technologies
-Include Technologies here
+
+C#
+.Net
+Visual Studio 
+MySql
+Postman
+bootstrap
+***If time permits angular frontend
+  -alternative use inline JS for dynamic webpage
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+How to create a web API
+How to create user groups and admin access
+How to integrate JS in a c# project
+
 ### Project Tracker
 Link to your Trello board here
+
+https://trello.com/b/gI7E3IHQ/first-board
+
